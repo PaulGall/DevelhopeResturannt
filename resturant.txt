@@ -1,9 +1,0 @@
-Nome Ristorante: Il Baccalà D'orato
-Menù: Pesce
-Bevande:    -Vino bianco
-            -Acqua Evian
-            -Acqua Evian frizzante
-            -Coca cola
-            -Champagne
-            -Vino rosè
-
