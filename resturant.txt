@@ -1,9 +1,16 @@
 Nome Ristorante: Il Baccalà D'orato
 Menù: Pesce
-Bevande:    -Vino bianco
-            -Acqua Evian
-            -Acqua Evian frizzante
-            -Coca cola
-            -Champagne
-            -Vino rosè
+Bevande:	-Vino bianco
+           	-Acqua Evian
+           	-Acqua Evian frizzante
+           	-Coca cola
+           	-Champagne
+           	-Vino rosè
+Dessert:	-Tiramisù dello Chef					6€
+	-Cannolo siciliano artigianale				5€
+	-Soufflè al cioccolato fondente				6€
+	-Meringata					5€
+	-Crema catalana					5€
 
+	-Tiramisù senza glutine, senza lattosio			8€
+	-Cuore Caldo al cioccolato senza glutine senza lattosio	8€
